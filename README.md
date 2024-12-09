@@ -25,7 +25,7 @@
   <!-- <a href="https://github.com/ml-tooling/lazydocs/releases">Changelog</a> -->
 </p>
 
-This project aimed to map the haul road of coal mines using Machine Learning. The algorithm used in this project is a deep learning algorithm, especially [YOLO][https://docs.ultralytics.com/]  
+This project aimed to map the haul road of coal mines using Machine Learning. The algorithm used in this project is a deep learning algorithm, especially [YOLO](https://docs.ultralytics.com/)  
 
 ## Prerequisites  
 - Seldon Core Installed on your Kubernetes cluster. Guidance [here](https://docs.seldon.io/projects/seldon-core/en/latest/workflow/install.html)  
