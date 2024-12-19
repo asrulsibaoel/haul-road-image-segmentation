@@ -3,3 +3,4 @@ outputs
 reports
 */**/.ipynb_checkpoints
 */**/*.npy
+lightning_logs
