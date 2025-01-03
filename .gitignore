@@ -1,6 +1,7 @@
 data
 outputs
 reports
+models
 */**/.ipynb_checkpoints
 */**/*.npy
 lightning_logs
