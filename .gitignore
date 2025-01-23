@@ -1,7 +1,10 @@
-data
-outputs
-reports
-models
+data/
+outputs/
+reports/
+models/
 */**/.ipynb_checkpoints
 */**/*.npy
-lightning_logs
+lightning_logs/
+*.pt
+*.log
+runs/

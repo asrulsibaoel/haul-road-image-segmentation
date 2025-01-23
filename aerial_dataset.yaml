@@ -1,0 +1,5 @@
+train: /mnt/e/pekerjaan/simas/road/data/splitted/datasets/images/train
+val: /mnt/e/pekerjaan/simas/road/data/splitted/datasets/images/test
+names:
+  0: haul_road
+nc: 1
